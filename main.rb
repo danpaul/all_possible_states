@@ -36,10 +36,3 @@ class Possible_states
         return true
     end
 end
-
-possible_states = Possible_states.new(4);
-possible_states.show_state()
-
-while possible_states.next()
-    possible_states.show_state()
-end
