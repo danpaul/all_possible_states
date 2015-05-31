@@ -1,6 +1,6 @@
 ## About
 
-`all_possible_states` is a simple ruby class to iterate over every possible state of a binary array of a user defined length;
+`all_possible_states` is a simple ruby class to iterate over every possible state of a binary array of a user defined length.
 
 ## Example
 
